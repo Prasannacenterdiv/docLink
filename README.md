@@ -89,7 +89,7 @@ doclink/
 └── README.md
 ```
 
-> This project uses a **single-file component architecture** — all components live in `DocLinkApp.jsx`. This keeps it simple for a college project submission and easy to review.
+> This project uses a **single-file component architecture** — all components live in `DocLinkApp.jsx`. 
 
 ---
 
